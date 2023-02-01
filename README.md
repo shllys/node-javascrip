@@ -1,1 +1,1 @@
-# node-javascrip
+# node-javascript
